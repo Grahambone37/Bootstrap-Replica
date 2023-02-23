@@ -16,7 +16,7 @@ export default function NavbarDiv() {
                     flexDirection: 'row'
                 }}>
                     <Nav.Link href="#Login" style={{color: 'white'}}>Log in</Nav.Link>
-                    <Button style={{
+                    <Button href="#Sign-Up" style={{
                         backgroundColor: '#0AAD0A',
                         border: 'none',
                         borderRadius: 50
